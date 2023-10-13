@@ -3,7 +3,7 @@ functions yourself.Now, overload + and - operator to find individual sum and dif
 of two instances.*/
 #include<iostream>
 using namespace std;
-class student
+class student 
 {
   float eng,maths,nep;
   public:void input()
