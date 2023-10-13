@@ -7,7 +7,7 @@ When both the objects are created previously then the value of object can be ass
 with the help of overloaded assignment statement.
 
 */
-
+ 
 #include<iostream>
 class demo
 {
