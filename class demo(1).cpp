@@ -2,7 +2,7 @@
 two member functions inorder to input and print data.*/
 
 
-
+ 
 #include<iostream>
 class student
 {
