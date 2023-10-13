@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    char name[10],address[20];
+    char name[10],address[20]; 
     fstream f ;
     f.open("student.dat");
     cin>>name>>address;
