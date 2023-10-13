@@ -5,7 +5,7 @@
 #include<iostream>
 class vol
 {
-	float l,b,h,volume; //Default access specifier is private
+	float l,b,h,volume; //Default access specifier is private 
      public : vol(float e , float f , float g)
 	{
 	l=e;
