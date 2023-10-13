@@ -4,7 +4,7 @@ If programmmer doensn't define any copy constructor , the compiler supplies its 
 So if you comment out line 16-19 , still the program works fine.*/
 
 #include <iostream>
-class demo
+class demo 
  {
  
     public:
