@@ -2,7 +2,7 @@
 /* WAP to create class employee which contains name , salary and tax as data members.Now create necessary 
 member functions for input and output.*/
 
-#include<iostream>
+#include<iostream> 
 using namespace std;
 class employee
 {
