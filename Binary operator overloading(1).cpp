@@ -5,7 +5,7 @@ using namespace std;
 class box
 {
   int l,b,h;
-  public:box()
+  public:box() 
   {
     l=2;
     b=4;
