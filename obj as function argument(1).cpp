@@ -1,7 +1,7 @@
 /* WAP to create class student which contains four data members Name , English , Nepali and Maths .Now create necessary 
 member functions for input and output.Create the function which compares the average of two  students and display the
  highest average.*/
-
+ 
 #include<iostream>
 using namespace std;
 class student
