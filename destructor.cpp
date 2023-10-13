@@ -3,7 +3,7 @@
 #include<iostream>
 class  hello
 {
-	public :
+	public : 
 		hello()
 		{
 			std::cout<<"I am constructor. \nI initialize values for an object.\n\n";
