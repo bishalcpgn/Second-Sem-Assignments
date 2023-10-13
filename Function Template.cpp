@@ -1,6 +1,6 @@
 //Add two numbers of same data type using function template.
 #include<iostream>
-template<class T>
+template<class T> 
 T add(T a , T b)
 {
     return a+b;
