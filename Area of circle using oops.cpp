@@ -5,7 +5,7 @@
 const int PI=3.14;  // PI is integer variable and its value is fixed to 3.14 
 using namespace std;
 class circle 
-{
+{ 
 	float r,a;
 	public :
 		void input()
