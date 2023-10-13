@@ -1,7 +1,7 @@
 /*WAP to create a class rectangle which contains two data members of float type as l and b.Now,
  use a default constructor to initialize its value and find its area.*/
  
- 
+  
 #include<iostream>
 class rectangle
 {
