@@ -3,7 +3,7 @@
 
 #include<iostream>
 using namespace std;
-class student 
+class student  
 {
 	private :
 		int eng,maths,nep,c,soc;
