@@ -5,7 +5,7 @@ value to the array of object using copy constructor.*/
 
 #include<iostream>
 class rect
-{
+{ 
 	float l,b;
 	public:
 	rect(float c , float d)
