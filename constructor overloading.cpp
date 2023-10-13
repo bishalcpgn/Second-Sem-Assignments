@@ -1,7 +1,7 @@
 //Constructor Overloading
 
 #include<iostream>
-using namespace std;
+using namespace std; 
 class cons
 {
 	int a,b;
