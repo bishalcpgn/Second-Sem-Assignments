@@ -5,7 +5,7 @@ using namespace std;
 class coordinate
 {
     float x,y;
-     public : void input()
+     public : void input() 
     {
         cout<<"\nValue of x = ";
         cin>>x;
