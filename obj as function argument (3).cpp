@@ -4,7 +4,7 @@
  
 #include<iostream>
 using namespace std;
-class box
+class box 
 {
 	private:
 	         float l,b,h;
