@@ -2,7 +2,7 @@
 #include<iostream>
 
 class cube
-{
+{ 
 	private: int side;
 	public: void operator ++()
 	{
