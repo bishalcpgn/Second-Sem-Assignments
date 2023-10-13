@@ -3,7 +3,7 @@ of rectangle.Now create another class compute which have function perimeter to c
 of a rectangle and make it as the child of rectangle class. use appropriate input and output 
 function by yourself.*/
 #include<iostream>
-using namespace std;
+using namespace std; 
 class rectangle
 {
     protected : float l ,b;
