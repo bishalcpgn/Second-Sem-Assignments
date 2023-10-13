@@ -2,7 +2,7 @@
 
 #include<iostream>
 using namespace std;
-class B;//forward declaration of class B so that compiler can know its existance
+class B;//forward declaration of class B so that compiler can know its existance 
 class A
 {
 	int x ;
