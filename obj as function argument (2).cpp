@@ -14,7 +14,7 @@ class box
 	        {
 	        	cout<<"Length  : ";
 	        	cin>>l;
-	        	cout<<"breadth : ";
+	        	cout<<"breadth : "; 
 	        	cin>>b;
 	        	cout<<"height  : ";
 	        	cin>>h;
